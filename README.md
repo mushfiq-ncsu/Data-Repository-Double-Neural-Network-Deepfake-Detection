@@ -1,5 +1,37 @@
 ## Dataset Introduction
 
+### Images
+
+CelebDFv2 Authentic Image
+
+```celebdfv2.tar.gz```
+
+CACD Authentic Image
+
+```cacd.tar.gz```
+
+CelebDFv2 Reconstructed Image
+
+```celebdfv2_recons.tar.gz```
+
+CACD Reconstructed Image
+
+```cacd_reconstructed(celebdf).tar.gz```
+
+CACD Faceswapped Image
+
+```cacd_deepfake(cacd).tar.gz```
+
+CACD Reconstructed Faceswapped Image
+
+```cacd_deepfake(cacd)_reconstructed(celebdf).tar.gz```
+
+CelebDFv2 Doubly Reconstructed Image
+
+```celebdfv2_double_recons.tar.gz```
+
+### Features
+
 #### Extracted features for the proposed Double Neural Network based method
 
 ```required-final.tar.gz```
