@@ -9,7 +9,7 @@
 
 #### Extracted features using the Xception[2] architecture
 
-``required-final.tar.gz"
+```required-final.tar.gz```
 
 
 ## Citation
